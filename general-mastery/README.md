@@ -1,5 +1,7 @@
 # Introduction
 
+* if you can read this then sync worked from github to gitbook despite the opposite sync direction having "authentication problems"...
+
 ## Initial thoughts from notebook
 
 * How to activate mastery
