@@ -20,3 +20,7 @@
 * Make yourself early for everything. The extra time (time buffers) all around your schedule will decrease stress and increase the time you have for focussing on your practice.
 * repeat tasks & routines each time you perform them erroneously, to increase the speed of changing the habit & strengthening the new one
 
+## Other notes
+
+* systems thinking
+* extrapolate systemic models and apply those models to other aspects of life; modify the models accordingly and return any modifications back upstream to see if they can be integrated. As the generic model becomes more rounded and stable, you can learn new systems more quickly as similar to the main model but with certain deviations.
