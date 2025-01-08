@@ -5,3 +5,18 @@
 ## Music
 
 * [Singing Songs](music/singing-songs.md)
+* [Instruments](music/instruments/README.md)
+  * [Monophonic](music/instruments/monophonic.md)
+  * [Polyphonic](music/instruments/polyphonic.md)
+  * [Percussive](music/instruments/percussive.md)
+
+## Movement
+
+* [Flow arts](movement/flow-arts.md)
+
+## Systems
+
+* [Systematic exploration](systems/systematic-exploration.md)
+* [Creative exploration](systems/creative-exploration.md)
+* [Creative constraints](systems/creative-constraints.md)
+* [Stylisation](systems/stylisation.md)
