@@ -14,15 +14,15 @@
 
 ## Spacing
 
-* [asdfads](spacing/asdfads.md)
+* [Spacing](spacing/asdfads.md)
 * [Æsþetics](spacing/aesthetics.md)
 * [Fêng Shuĭ](spacing/feng-shui.md)
 
 ## Grimoire
 
 * [Symbols](grimoire/symbols/README.md)
-  * [World symbols](grimoire/symbols/world-symbols.md)
   * [About symbols](grimoire/symbols/about-symbols.md)
+  * [World symbols](grimoire/symbols/world-symbols.md)
   * [Alchemical symbols](grimoire/symbols/alchemical-symbols.md)
 * [Sigils](grimoire/sigils.md)
 
