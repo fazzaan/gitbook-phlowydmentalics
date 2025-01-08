@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 
-## Group 1
+## Spelling
 
-* [Futuring](group-1/futuring.md)
+* [Futuring basics](spelling/futuring-basics.md)
+* [Leximancy](spelling/leximancy.md)
+* [Arithmancy](spelling/arithmancy.md)
