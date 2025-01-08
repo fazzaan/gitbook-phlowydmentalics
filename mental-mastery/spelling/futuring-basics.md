@@ -1,4 +1,10 @@
-# Futuring
+# Futuring basics
+
+_First of all: I know this works because I use it._
+
+_Suspend your disbelief and read it with an open mind: you'll discover that this is a creative application of psychological ideas._
+
+_This does **not** preclude taking actual action. You have hands for a reason. Perhaps the practical meaning of "_[_manifestation_](#user-content-fn-1)[^1]_" would be more obvious if it were "handifestation"._
 
 ## Visualisation
 
@@ -148,7 +154,7 @@ Magic is the programming languages that the lifeforms designed in order to contr
 
 Magic is the spoken languages that the lifeforms created organically and constructurally in order to communicate and increase the quality & accuracy of communication
 
-[_!_](#user-content-fn-1)[^1]
+[_!_](#user-content-fn-2)[^2]
 
 
 
@@ -172,7 +178,7 @@ Of all that there is in this Universe, the sheer mass of magic that has occurred
 
 So, drop those beliefs you hold about magic being impossible, about magic being _the_ impossible.
 
-Magic is real _**because**_ it is _**not**_ [_the_ impossible](#user-content-fn-2)[^2].
+Magic is real _**because**_ it is _**not**_ [_the_ impossible](#user-content-fn-3)[^3].
 
 
 
@@ -355,9 +361,11 @@ Now you have crafted ones which do what you want.
 
 
 
-[^1]: _(And we haven't even scratched the surface of actual magickal practices.)_
+[^1]: read the [wiktionary](https://en.wiktionary.org/wiki/manifest) page
 
-[^2]: Some things are literally impossible, such as laser bullets being visible from the side-view, as we so often see in sci-fi.&#x20;
+[^2]: _(And we haven't even scratched the surface of actual magickal practices.)_
+
+[^3]: Some things are literally impossible, such as laser bullets being visible from the side-view, as we so often see in sci-fi.&#x20;
 
 
 
