@@ -260,7 +260,25 @@ The problem is that you are guided by your subconscious reflexive habits.
 
 So this is why we need to intervene.
 
-How can we intervene?
+The intervention _selects_ a type, a class, of future from the quantum field of options.
+
+The selection charges it up with your focussed intention.
+
+The charge makes it magnetic, it attracts you towards it.&#x20;
+
+When you start making the right default choices, you fall towards it, there is no other option.
+
+Imagine that you have folded your self up into a specific complexity that can _only_ unfold into the direction & outcome of your intention.
+
+That is what the magic is; that is spelling; that is future-crafting.
+
+
+
+You've created a differential between you and that future, and the only thing remaining is for the differential to resolve. Sounds like electronics? It is. Actually it's temporal alchemics.&#x20;
+
+
+
+_<mark style="color:yellow;">So how can we intervene?</mark>_
 
 ## Programming your mind
 
