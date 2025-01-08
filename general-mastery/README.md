@@ -1,10 +1,20 @@
 # Introduction
 
+{% hint style="warning" %}
+If you appreciate my work on these GitBook websites and want to support me, you can follow my other accounts on social media, and you can buy me a coffee, or a coconut!&#x20;
+
+Visit my [LinkTree](https://linktr.ee/fazzaan) page to see all my social media channels.
+
+Visit [BuyMeACoffee.com/farran](https://buymeacoffee.com/farran) to send me money.
+
+I pour my heart and soul into these websites because I want to share the knowledge I've discovered and compiled from throughout my life, because it has helped me grow and learn to love life, learn how to heal, learn how to learn and how to overcome struggles. I can't, and don't want to, monetise this information, so I create it and release it freely. If it benefits you and you can afford to, please consider supporting my work 😊
+{% endhint %}
+
 We _have_ to get our lives in order.
 
 There is no other option, and nobody else is gonna do it for us.
 
-{% hint style="info" %}
+{% hint style="success" %}
 The main site here, _Mastery_, is about mastering skills, primarily creative skills, which of course can be used for pleasure, leisure, creative work; and sometimes can be transferred into other aspects of life. _Make your life colourful._
 {% endhint %}
 
@@ -57,6 +67,8 @@ The next subsite, [Mentalscape](https://app.gitbook.com/o/ncd9U74Kvvm90FLF5tdt/s
 No self-mastery would be complete without a dip into [Health](https://app.gitbook.com/o/ncd9U74Kvvm90FLF5tdt/s/8Bu9PhjagzvDjiFiwMOW/ "mention").
 
 </details>
+
+
 
 
 
