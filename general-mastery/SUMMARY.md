@@ -13,6 +13,8 @@
 ## Movement
 
 * [Flow arts](movement/flow-arts.md)
+* [Yoga](movement/yoga.md)
+* [Qi Gong, Chi Kung, Khi Cong](movement/qi-gong-chi-kung-khi-cong.md)
 
 ## Systems
 
