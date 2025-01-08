@@ -12,6 +12,12 @@
 
 * [Defining hierarchy of concepts](scratchpad/defining-hierarchy-of-concepts.md)
 
+## Spacing
+
+* [asdfads](spacing/asdfads.md)
+* [Æsþetics](spacing/aesthetics.md)
+* [Fêng Shuĭ](spacing/feng-shui.md)
+
 ## Grimoire
 
 * [Symbols](grimoire/symbols/README.md)
