@@ -1,5 +1,11 @@
 # Introduction
 
+_Jump to_ [#contents-of-this-site](./#contents-of-this-site "mention")&#x20;
+
+{% hint style="success" %}
+The main site here, _Mastery_, is about mastering skills, primarily creative skills, which of course can be used for pleasure, leisure, creative work; and sometimes can be transferred into other aspects of life. _Make your life colourful._
+{% endhint %}
+
 {% hint style="warning" %}
 If you appreciate my work on these GitBook websites and want to support me, you can follow my other accounts on social media, and you can buy me a coffee, or a coconut!&#x20;
 
@@ -14,11 +20,7 @@ We _have_ to get our lives in order.
 
 There is no other option, and nobody else is gonna do it for us.
 
-{% hint style="success" %}
-The main site here, _Mastery_, is about mastering skills, primarily creative skills, which of course can be used for pleasure, leisure, creative work; and sometimes can be transferred into other aspects of life. _Make your life colourful._
-{% endhint %}
-
-For the best part of 25-30 years, we can roll through life, especially in the more-privileged world. Options come our way, health and energy are available from our body's youthful virility, we go to parties and meet new people, our brains are able to learn easily.
+For the best part of 25–30 years, we can roll through life, especially in the more-privileged world. Options come our way, health and energy are available from our body's youthful virility, we go to parties and meet new people, our brains are able to learn easily.
 
 We can be completely unfocussed and still somehow survive.
 
@@ -28,13 +30,23 @@ We age. Our family ages. Our parents age. Our friends age.
 
 One day we may want children.
 
-One day our parents, family, siblings, friends, children may need our help.
+**One day our parents, family, siblings, friends, children may need our help.**
 
-Are we prepared to help them?
+_Are we prepared to help them?_
 
-Are we even prepared to help ourselves?
+_**Are we even prepared to help ourselves?**_
 
-### Site structure&#x20;
+## Contents of this site
+
+* [Broken link](broken-reference "mention")
+* [Broken link](broken-reference "mention")
+* [Health (dedicated subsite)](https://app.gitbook.com/o/ncd9U74Kvvm90FLF5tdt/s/8Bu9PhjagzvDjiFiwMOW/)&#x20;
+* [Broken link](broken-reference "mention")
+* [Broken link](broken-reference "mention")
+
+***
+
+## Mastery SuperSite
 
 <details>
 
@@ -70,12 +82,15 @@ No self-mastery would be complete without a dip into [Health](https://app.gitboo
 
 
 
+***
 
+## To do
 
-## Initial thoughts from notebook
+### Initial thoughts from notebook
 
 * How to activate mastery
 * The condition of being a master, a mast-er, a masterer
+* Stepping from training into feeling and _trusting_ the feeling
 * The right mentalities to maintain
   * Not doing things up until "good enough" but going further
   * Attempting to do things at a higher level of difficulty
@@ -90,7 +105,7 @@ No self-mastery would be complete without a dip into [Health](https://app.gitboo
 * Make yourself early for everything. The extra time (time buffers) all around your schedule will decrease stress and increase the time you have for focussing on your practice.
 * repeat tasks & routines each time you perform them erroneously, to increase the speed of changing the habit & strengthening the new one
 
-## Other notes
+### Other notes
 
 * systems thinking
 * extrapolate systemic models and apply those models to other aspects of life; modify the models accordingly and return any modifications back upstream to see if they can be integrated. As the generic model becomes more rounded and stable, you can learn new systems more quickly as similar to the main model but with certain deviations.

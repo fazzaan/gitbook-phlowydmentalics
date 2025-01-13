@@ -4,6 +4,7 @@
 
 ## Music
 
+* [Music](music/music.md)
 * [Singing Songs](music/singing-songs.md)
 * [Instruments](music/instruments/README.md)
   * [Monophonic](music/instruments/monophonic.md)
@@ -13,12 +14,14 @@
 
 ## Movement
 
+* [Movement](movement/movement.md)
 * [Flow arts](movement/flow-arts.md)
 * [Yoga](movement/yoga.md)
-* [Qi Gong, Chi Kung, Khi Cong](movement/qi-gong-chi-kung-khi-cong.md)
+* [Qi Gong, Chi Kung, Khí Công](movement/qi-gong-chi-kung-khi-cong.md)
 
 ## Systems
 
+* [Systems](systems/systems.md)
 * [Systematic exploration](systems/systematic-exploration.md)
 * [Creative exploration](systems/creative-exploration.md)
 * [Creative constraints](systems/creative-constraints.md)
