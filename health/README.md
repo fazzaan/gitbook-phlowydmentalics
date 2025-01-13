@@ -1,6 +1,12 @@
-# Introductio
+# Health Homepage
 
-Intro&#x20;
+## Introduction
+
+This site is very much a work in progress, as is health itself.
+
+Health is an ongoing effort to maintain good condition within your body & mind.
+
+As well as noticing and responding to changes in our health, we also learn from the past & from other people and intentionally take _**preventative**_ measures. Maintaining health _preventatively_ is our best form of defence, as we can do things to strengthen our immune system and barriers of protection. Many men might not like to admit it, but good skincare is vital for good health, because the condition of the skin dictates how your body interacts with the world around you.
 
 
 
