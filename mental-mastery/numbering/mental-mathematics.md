@@ -1,5 +1,7 @@
 # Mental mathematics
 
+_Numbers have more depth than simple stepwise counting. Explore patterns to plumb the depths._
+
 Train your brain in sequences. We are surrounded by them all the time. Mental dexterity to jump around inside these sequences will make it less of a chore to work things out.
 
 The first page on this spreadsheet is for Base 10, the decimal system. It shows various times tables (multiplication tables), highlighted by colour. Look at them and familiarise yourself with the feeling of the patterns, and also with the stepwise changes, and also with the numbers that they typically end with. _**Note that my times tables' lines start with 0 and end on 9.**_&#x20;

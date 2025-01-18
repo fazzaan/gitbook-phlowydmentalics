@@ -2,11 +2,19 @@
 
 * [Introduction](README.md)
 
+## Heuristics
+
+* [Heuristics](heuristics/heuristics.md)
+
 ## Spelling
 
 * [Futuring basics](spelling/futuring-basics.md)
 * [Leximancy](spelling/leximancy.md)
 * [Arithmancy](spelling/arithmancy.md)
+
+## Numbering
+
+* [Mental mathematics](numbering/mental-mathematics.md)
 
 ## Scratchpad
 
@@ -29,11 +37,3 @@
 ## External resources
 
 * [Reading](external-resources/reading.md)
-
-## Heuristics
-
-* [Heuristics](heuristics/heuristics.md)
-
-## Numbering
-
-* [Mental mathematics](numbering/mental-mathematics.md)
