@@ -29,3 +29,11 @@
 ## External resources
 
 * [Reading](external-resources/reading.md)
+
+## Heuristics
+
+* [Heuristics](heuristics/heuristics.md)
+
+## Numbering
+
+* [Mental mathematics](numbering/mental-mathematics.md)
