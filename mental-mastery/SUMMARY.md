@@ -15,6 +15,7 @@
 ## Numbering
 
 * [Mental mathematics](numbering/mental-mathematics.md)
+* [Base Switching](numbering/base-switching.md)
 
 ## Scratchpad
 
