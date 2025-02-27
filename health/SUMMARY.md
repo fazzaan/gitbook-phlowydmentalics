@@ -5,7 +5,8 @@
 ## Categories <a href="#in" id="in"></a>
 
 * [Habits](in/habits/README.md)
-  * [Sleep](in/habits/sleep.md)
+  * [Sleep](in/habits/sleep/README.md)
+    * [Sleep Paralysis](in/habits/sleep/paralysis.md)
   * [Routine](in/habits/routine.md)
 * [Protection](in/protection/README.md)
   * [Preventative](in/protection/preventative.md)
