@@ -39,7 +39,9 @@ So put into your senses only that which is of good & desirable quality.
 * choosing media types — films, books, series, and why&#x20;
 * choosing genres — scifi & fantasy, and why (vehicle for discussing politics, racism, sexism, discrimination, philosophy, spirituality, cosmology)&#x20;
 * choosing quality — e.g. avoiding fictional science, preferring scientific fiction; avoiding nonsensical fantasy, preferring founded and reasonable magic systems
-*
+* ARCHITECTURE OF MENTALSCAPE&#x20;
+  * main info on this site
+  * section on mental mastery site, brief intro, link to section on this site
 
 
 
