@@ -34,6 +34,7 @@
   * [World symbols](grimoire/symbols/world-symbols.md)
   * [Alchemical symbols](grimoire/symbols/alchemical-symbols.md)
 * [Sigils](grimoire/sigils.md)
+* [Hermetic Principles](grimoire/hermetic-principles.md)
 
 ## External resources
 
