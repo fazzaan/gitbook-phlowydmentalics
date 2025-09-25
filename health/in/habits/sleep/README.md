@@ -10,3 +10,10 @@ _**THESE ARE ALL JUST SUGGESTIONS. CALM DOWN**_
 4. time your waketime to coincide with dawn; keep your curtains open if you can
 5. melatonin makes your blood slow. don't give in in the mornings; get up and **jump** around
 6. sleep paralysis; escaping it, preventing it
+
+
+
+### Topics
+
+* Sleep disorders
+  * Do remember that physiology is the fundament of physical activities, and sleep is a physical activity. It is completely possible that you — or someone who "won't listen to you" — actually are neuro-chemically affected by another condition. For example, ADHD affects neurotransmitter production & function, and these neurotransmitter effect networks are involved in the circadian rhythm.
